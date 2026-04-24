@@ -28,11 +28,13 @@ I'm the founder and leader of **Corex Team**, a community-driven organization fo
 ## 💻 Tech Stack
 
 ### Languages
+- **Shell** - Package management and system scripting
+- **C** - Low-level systems programming
 - JavaScript / TypeScript
 - Python
 - Java
 - SQL
-- Bash / Shell
+- Bash
 
 ### Frameworks & Libraries
 - React
@@ -42,10 +44,11 @@ I'm the founder and leader of **Corex Team**, a community-driven organization fo
 
 ### Specializations
 - Linux Systems & Distributions
-- Package Management
+- Package Management (Core package manager)
 - Debian-based Systems
 - Performance Optimization
 - System Architecture
+- Shell Scripting & Automation
 
 ### Tools & Platforms
 - Git & GitHub
@@ -57,11 +60,15 @@ I'm the founder and leader of **Corex Team**, a community-driven organization fo
 
 ### Corex Team Projects
 
-| Project | Description | Repository |
-|---------|-------------|-----------|
-| **Corex-Linux** | Experimental Linux distribution prioritizing performance, usability, and modern system design | [View](https://github.com/The-Corex-Team) |
-| **Core** | Innovative package manager for Debian systems | [View](https://github.com/The-Corex-Team) |
-| **Corex Team Community** | Building a collaborative open-source community | [Visit](https://corexteam.org) |
+| Project | Description | Language | Repository |
+|---------|-------------|----------|-----------|
+| **Corex-Linux** | Experimental Linux distribution prioritizing performance, usability, and modern system design | Shell | [View](https://github.com/The-Corex-Team/Corex-Linux) |
+| **Core** | Innovative package manager designed for Debian-based systems | Shell | [View](https://github.com/The-Corex-Team/core) |
+| **FreeMidori** | Advanced system component for lightweight computing | C | [View](https://github.com/The-Corex-Team/FreeMidori) |
+| **Monotype** | Typography and system font management utilities | - | [View](https://github.com/The-Corex-Team/Monotype) |
+
+### All Corex Team Repositories
+- 🔗 Explore more at: [The-Corex-Team on GitHub](https://github.com/The-Corex-Team)
 
 ## 📊 GitHub Statistics
 
@@ -77,6 +84,7 @@ I'm the founder and leader of **Corex Team**, a community-driven organization fo
 - 🌍 Growing an inclusive open-source community
 - 🔬 Exploring emerging technologies and best practices
 - 👥 Mentoring junior developers and contributors
+- 📦 Developing robust package management solutions
 
 ## 🤝 Let's Connect
 
