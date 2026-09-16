@@ -15,7 +15,7 @@
       <th>Skills</th>
     </tr>
 
-```
+
 <tr>
   <td>
     <p align="right">Programming Languages</p>
@@ -81,7 +81,7 @@
     </p>
   </td>
 </tr>
-```
+
 
   </table>
 </p>
