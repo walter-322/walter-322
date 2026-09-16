@@ -1,109 +1,125 @@
-# Hey there! 👋 I'm walter-322
+# Walter
 
-Welcome to my GitHub profile! I'm a passionate developer and **Founder of [Corex Team](https://corexteam.org)**, committed to building innovative solutions and contributing to open-source projects.
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walter-322&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=walter-322&theme=transparent"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walter-322&theme=transparent&exclude=Shell" />
+</p>
 
-## 🚀 About Me
+## My Stack
 
-I'm the founder and leader of **Corex Team**, a community-driven organization focused on building sustainable, high-performance software solutions, particularly for Debian-based systems. With a focus on continuous learning and innovation, I lead initiatives that merge stability with cutting-edge technology.
+<p align="center">
+  <table>
+    <tr>
+      <th></th>
+      <th>Skills</th>
+    </tr>
 
-- 👑 **Founder & Lead** of [Corex Team](https://corexteam.org)
-- 🔭 Architecting next-generation software solutions
-- 🌱 Always learning and pushing technological boundaries
-- 💡 Passionate about innovation, performance, and problem-solving
-- 🤝 Building and nurturing a collaborative open-source community
-- 📧 Let's connect and build something amazing together!
+```
+<tr>
+  <td>
+    <p align="right">Programming Languages</p>
+  </td>
+  <td>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,c,python,bash,perl&perline=11"/>
+    </p>
+  </td>
+</tr>
 
-## 🏢 Corex Team
+<tr>
+  <td>
+    <p align="right">Frameworks & GUI</p>
+  </td>
+  <td>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=qt&perline=11"/>
+    </p>
+  </td>
+</tr>
 
-**Corex Team** is a community-driven organization dedicated to:
-- Building sustainable, high-performance software solutions
-- Developing **Corex-Linux** - an experimental Linux distribution prioritizing performance, usability, and modern system design
-- Creating **Core** - an innovative package manager for Debian systems
-- Merging stability with innovation for lightweight computing
-- Fostering a collaborative developer community
+<tr>
+  <td>
+    <p align="right">Operating Systems</p>
+  </td>
+  <td>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,arch,windows&perline=11"/>
+    </p>
+  </td>
+</tr>
 
-**Website:** [corexteam.org](https://corexteam.org)  
-**GitHub Organization:** [The-Corex-Team](https://github.com/The-Corex-Team)
+<tr>
+  <td>
+    <p align="right">Infrastructure</p>
+  </td>
+  <td>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,proxmox,nginx&perline=11"/>
+    </p>
+  </td>
+</tr>
 
-## 💻 Tech Stack
+<tr>
+  <td>
+    <p align="right">DevOps & Tools</p>
+  </td>
+  <td>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,cmake,vscode&perline=11"/>
+    </p>
+  </td>
+</tr>
 
-### Languages
-- **Shell** - Package management and system scripting
-- **C** - Low-level systems programming
-- JavaScript / TypeScript
-- Python
-- Java
-- SQL
-- Bash
+<tr>
+  <td>
+    <p align="right">Networking</p>
+  </td>
+  <td>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=linux&perline=11"/>
+    </p>
+  </td>
+</tr>
+```
 
-### Frameworks & Libraries
-- React
-- Node.js
-- Express
-- Django
+  </table>
+</p>
 
-### Specializations
-- Linux Systems & Distributions
-- Package Management (Core package manager)
-- Debian-based Systems
-- Performance Optimization
-- System Architecture
-- Shell Scripting & Automation
+## Projects
 
-### Tools & Platforms
-- Git & GitHub
-- Docker
-- Linux / Debian
-- VS Code
+<p align="center">
+  <a href="https://github.com/The-Corex-Team">
+    <img src="https://img.shields.io/badge/Corex%20Team-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/The-Corex-Team/Brusher">
+    <img src="https://img.shields.io/badge/Brusher-Qt6%20%2B%20C%2B%2B-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  </a>
+  <a href="https://github.com/The-Corex-Team/Lapp">
+    <img src="https://img.shields.io/badge/LAPP-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  </a>
+</p>
 
-## 🏆 Featured Projects
+## Certifications
 
-### Corex Team Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NDG-Linux%20Essentials-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-| Project | Description | Language | Repository |
-|---------|-------------|----------|-----------|
-| **Corex-Linux** | Experimental Linux distribution prioritizing performance, usability, and modern system design | Shell | [View](https://github.com/The-Corex-Team/Corex-Linux) |
-| **Core** | Innovative package manager designed for Debian-based systems | Shell | [View](https://github.com/The-Corex-Team/core) |
-| **FreeMidori** | Advanced system component for lightweight computing | C | [View](https://github.com/The-Corex-Team/FreeMidori) |
-| **Monotype** | Typography and system font management utilities | - | [View](https://github.com/The-Corex-Team/Monotype) |
+## Interests
 
-### All Corex Team Repositories
-- 🔗 Explore more at: [The-Corex-Team on GitHub](https://github.com/The-Corex-Team)
+<p align="center">
+  Linux • System Administration • Networking • C/C++ • Qt • Infrastructure • DevOps • Open Source
+</p>
 
-## 📊 GitHub Statistics
+## Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walter-322&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walter-322&layout=compact&theme=tokyonight)
-
-## 🎯 Goals & Interests
-
-- 🚀 Leading Corex Team to revolutionize lightweight computing
-- 💻 Building high-performance software solutions
-- 🐧 Advancing Debian-based system innovation
-- 🌍 Growing an inclusive open-source community
-- 🔬 Exploring emerging technologies and best practices
-- 👥 Mentoring junior developers and contributors
-- 📦 Developing robust package management solutions
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with fellow developers, collaborators, and enthusiasts. Feel free to reach out!
-
-- 🏢 **Corex Team:** [corexteam.org](https://corexteam.org)
-- 👥 **Developers Community:** [corexteam.org/developers](https://corexteam.org/developers)
-- 🔗 **GitHub Organization:** [The-Corex-Team](https://github.com/The-Corex-Team)
-- 📧 **Email:** [Contact us](https://corexteam.org)
-
-## 📈 Contribution Activity
-
-Explore my repositories and the **Corex Team** projects! Feel free to star ⭐, fork, or contribute to any projects that interest you. We welcome community contributions and collaboration!
-
----
-
-<div align="center">
-
-**Leading Innovation with Corex Team** 🚀  
-**Made with ❤️ by [walter-322](https://github.com/walter-322) | Founder of [Corex Team](https://corexteam.org)**
-
-</div>
+<p align="center">
+  <a href="https://github.com/walter-322">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://corexteam.org">
+    <img src="https://img.shields.io/badge/Corex%20Team-0066CC?style=for-the-badge&logo=linux&logoColor=white"/>
+  </a>
+</p>
